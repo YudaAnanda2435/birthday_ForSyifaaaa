@@ -313,6 +313,10 @@ body {
     font-size: 1.4rem;
   }
 
+  .baloons img {
+  width: 600px;
+}
+
   .nine p {
     font-size: 1.5rem;
     font-weight: lighter;
