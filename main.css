@@ -36,6 +36,7 @@ body {
 .two {
   font-size: 1.2rem;
   font-weight: lighter;
+  padding-inline: 12px;
 }
 
 .three {
@@ -70,6 +71,10 @@ body {
   padding: .5rem 1rem;
   position: absolute;
   right: 5px;
+}
+
+.idea-2{
+  padding-inline: 12px;
 }
 
 .five p {
@@ -208,6 +213,14 @@ body {
   top: 94vh;
 }
 
+.wish{
+  padding-inline: 12px;
+}
+
+.nine-teks{
+  padding-inline: 12px;
+}
+
 .wish-hbd {
   font-size: 3em;
   margin: 0;
@@ -271,8 +284,8 @@ body {
   position: relative;
   text-align: center;
   visibility: hidden;
-  width: 100vw;
-  padding: 10px;
+  width: 100%;
+  padding: 20px;
 }
 
   .one{
