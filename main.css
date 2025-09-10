@@ -109,6 +109,10 @@ body {
   z-index: 1;
 }
 
+.one{
+  padding-inline: 12px;
+}
+
 .six img {
   display: inline-block;
   height: 350px;
