@@ -288,6 +288,10 @@ body {
     margin-top: -100px;
   }
 
+  .four .text-box p {
+   font-size: 13px;
+  }
+
   .container {
     height: 100vh;
     margin: 0 auto;
